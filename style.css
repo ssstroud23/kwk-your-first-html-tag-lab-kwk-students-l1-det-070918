@@ -11,6 +11,6 @@ h1 {
 
 body {
   background:
-  "https://img00.deviantart.net/ec57/i/2012/012/5/4/2_puppies_by_lj6204-d4m5h45.jpg";
+  url(https://img00.deviantart.net/ec57/i/2012/012/5/4/2_puppies_by_lj6204-d4m5h45.jpg);
   background-size: contain;
 }
